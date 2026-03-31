@@ -43,6 +43,3 @@ Individual-level DHS microdata would be needed for causal inference.
 
 ## Author
 Sagambor
-*(your name)*  
-*(your LinkedIn or email — optional)*
-```
