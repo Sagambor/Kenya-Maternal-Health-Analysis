@@ -1,9 +1,5 @@
 # Kenya-Maternal-Health-Analysis
-Analysis of Kenya DHS data (1989–2022) exploring trends in skilled antenatal care coverage and the relationship between delivery setting and maternal healthcare access.
-# Kenya Maternal Health Analysis
-
-An analysis of Kenya's Demographic and Health Surveys (DHS) data spanning 1989–2022, 
-focusing on two questions:
+Analysis of Kenya DHS data (1989–2022) exploring trends in skilled antenatal care coverage and the relationship between delivery setting and maternal healthcare access. The analysis focuses on two questions:
 
 1. Has access to skilled antenatal care improved over time, and what does the trend 
 suggest about future coverage?
